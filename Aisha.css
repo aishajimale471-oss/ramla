@@ -1,0 +1,151 @@
+ 
+ *{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+           
+        }
+        body{
+            background: radial-gradient(circle, white,orange);}
+
+h1{
+    color: rgb(24, 25, 25);
+    background-color: rgb(250, 245, 245);
+    text-align: center;
+    border: 0cm;
+
+}
+h2{
+     color: rgb(145, 155, 165);
+    background-color: rgb(244, 240, 240);
+    text-align: center;
+    border: 0cm;
+     font-size: larger;
+     display: inline-block; 
+     margin: 0 auto;
+}
+p{
+     color: rgb(22, 20, 20);
+    
+
+    text-align: center;
+    border: 0cm;
+    font-size: large;
+
+
+}
+main{
+ 
+    text-align: center;
+
+}
+
+   
+
+NAV OL{
+    list-style:none;
+}
+
+
+nav ul{
+
+list-style: none; 
+display: flex;
+/* align-items: center; */
+
+}
+
+  
+
+
+
+
+h3{
+  background-color: rgb(23, 23, 22);
+    font-size: larger;
+    display:block;
+    color: #ffff;
+    margin:0 auto;
+    width: 150px;
+}
+video{
+    height: 300;
+ border-radius: 10%;
+    width: 200px;
+}
+ 
+
+    
+.lemon{
+    border-radius:10%;
+}
+
+ 
+#STberry{
+    width: 300px;
+    height: 300PX;
+}
+
+.IMAGE2{
+    width: 300PX;
+    height: 200PX;
+}
+
+.STAWCAKE{
+    width: 300PX;
+    height: 200PX;
+}
+.sours{
+    width: 200px;
+    height: 300PX;
+    border-radius:10%;
+}
+
+.berries{
+    width: 200px;
+    height: 290PX;
+    border-radius:10%;
+}
+
+#tropical{
+     width: 200px;
+    height: 300PX;
+    border-radius:10%;
+}
+
+.mango{
+   width: 220px;
+   border-radius: 20%;
+    height: 204PX}
+
+    #pineable{
+        width: 220px;
+    height: 204PX;
+    border-radius: 20%;
+    }
+
+#papaya{
+     width: 220px;
+    height: 204PX;
+    border-radius: 20%;
+}
+br{
+    border: 10;
+}
+
+footer{
+    text-align: left;
+    float: left;
+    color:hsla(0, 10%, 92%,0.9);
+    background-color: rgba(236, 10, 10, 0.612);
+    
+}
+
+.STberry{
+    width: 300px  ;
+    height: 270px;
+    border-radius: 20%;
+}
+
+img{
+    border-radius: 20%;
+}
